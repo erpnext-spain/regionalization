@@ -1,6 +1,6 @@
 # ERPNext Spain
 
-ERPNext regionalization for Spain-specific use cases
+ERPNext regionalization for Spain-specific use cases.
 
 ERPNext (https://www.erpnext.org) is a global, leading, cloud based open source enterprise resource planning software. ERPNext is a trademark by Frappé Technologies.
 
